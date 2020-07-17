@@ -2,6 +2,13 @@
 A fully 3D printable open source mechatronic (biomimetic) hand.
 
 
+## V2 Assembly
+
+![V2 assembly](V2-hand-assembly1.png)  
+![V2 assembly](V2-hand-assembly2.png)  
+![V2 assembly](V2-hand-assembly3.png)
+
+
 ## Dev log: 
 
 ### 07/06/202 Finger Version 2.1.4 
@@ -19,4 +26,4 @@ the design is supposed to be easy to assemble at home with limited technical ski
 The main issue is that the current 'tendon rails' are far too bulky and could interfere with the function of the hand considerably.
 
 After watching a youtube video on a similar project, I've decided to experiment with the use of metal wire in construction of the hand and as a possible hinge mechanism.  
-I think for the redesign I will use a layered type design.
+I think for the redesign I will use a layered type design. So instead of whole discrete parts for the different functional sections of the hand I will design the sections of the hand out of multiple parts stacked on top of each other - in layers.  
