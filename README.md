@@ -5,8 +5,6 @@ A fully 3D printable open source mechatronic (biomimetic) hand.
 ## Version three (11/09/2020)
 After a long hiatus, I came back to this design with some fresh eyes and ideas. Version 2 is completely scrapped as it is too impractical.  
 For version 3 I've set out to make a better, more structuarally sound joint ideally with a better ROM too.
-![Joint-A_Drawing.pdf](Joint A drawing)  
-![Joint-B_Drawing.pdf](Joint B drawing)  
 ![V3 joint components](newJointIndividual.png)  
 ![V3 Joint assembly](newJoint.png)
 
